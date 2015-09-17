@@ -1,16 +1,16 @@
 # Giving feedback to others
 Introductory paragraph that summaries and links to presentations and published actitivity in this area.
 
-## Teaching material
+## 1. Teaching material
  * https://www.mededportal.org/
  * https://www.mededportal.org/icollaborative/ 
  * Other
   * [KUMC-W (Google Drive)](https://docs.google.com/presentation/d/1maUPokGzYVePkksNzNmHmhBsYG-XopEaTpVmnfdREaA/edit?usp=sharing)
 
-## Evaluation
+## 2. Evaluation
  * [Question bank in form of data dictionaries for RedCap](evaluation/)
 
-## Benchmarking and normative data
+## 3. Benchmarking and normative data
 ### Baseline
  * [Data files](benchmarking/Baseline/)
  * Summary of 4 Sites
