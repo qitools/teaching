@@ -10,5 +10,5 @@
  * [Question bank in form of data dictionaries for RedCap](evaluation/)
 
 ### Benchmarking and normative data
- * [Baseline](benchmarking/baseline/)
- * [Post-teaching](benchmarking/post-teaching/)
+ * [Baseline](benchmarking/Baseline/)
+ * [Post-teaching](benchmarking/Post-teaching/)
