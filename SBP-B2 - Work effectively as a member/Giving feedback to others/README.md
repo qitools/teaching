@@ -1,10 +1,11 @@
 # Giving feedback to others
-Introductory paragraph that summaries and links to published actitivity in this area.
+Introductory paragraph that summaries and links to presentations and published actitivity in this area.
 
 ## Teaching material
  * https://www.mededportal.org/
  * https://www.mededportal.org/icollaborative/ 
- * Other location?
+ * Other
+  * [KUMC-W (Google Drive)](https://docs.google.com/presentation/d/1maUPokGzYVePkksNzNmHmhBsYG-XopEaTpVmnfdREaA/edit?usp=sharing)
 
 ## Evaluation
  * [Question bank in form of data dictionaries for RedCap](evaluation/)
