@@ -1,4 +1,5 @@
 # SBP-B2: Work effectively as a member within the interprofessional team to ensure safe patient care
+Introductory paragraph that summaries and links to published actitivity in this area.
 
 ##Giving feedback to others
 ### Teaching material
@@ -29,3 +30,5 @@
 | Lowest   |        60%         |        30           |
 | Median   |        70%         |        40           |
 | Highest  |        80%         |        50           |
+
+##References
